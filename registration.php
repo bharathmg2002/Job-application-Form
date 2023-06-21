@@ -28,12 +28,6 @@
     <input type="text" id="phone" name="phone" required>
     </div>
   </div>
-    
-
-    
-
-   
-
     <label for="experience">Experience:</label>
     <textarea id="experience" name="experience" rows="4" required></textarea>
 
